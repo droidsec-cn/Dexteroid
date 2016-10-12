@@ -1,8 +1,8 @@
 # Dexteroid
 
-This project here is only for demo purposes and part of Dexteroid source code. We plan to release the complete source code in future after fixing all minor issues and critical bugs, if any.
+This project here is only for showcase purposes and part of Dexteroid source code. It's not fully functional. We plan to release the complete source code in future after fixing all minor issues and critical bugs, if any.
 
-For complete software architure and functionality, and scanning Android apps , please go to http://wwww.apkscanner.com
+For complete software architure and functionality, and scanning Android apps , please go to http://www.apkscanner.com
 
 ##1. Features
 
